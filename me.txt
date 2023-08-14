@@ -1,5 +1,5 @@
 {{#user}
 Name: Mohammad Danish
-Skills: HTML, CSS, JS, Node.js,Express.js,Rest APIs.
+Skills: HTML, CSS, JS, Node.js,Express.js,Rest APIs,Git,Github.
 Email: mdd14499@gmail.com
 {{/user}}
